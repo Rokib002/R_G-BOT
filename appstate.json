@@ -1,7 +1,74 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+    {
+        "key": "datr",
+        "value": "HedFZzee5vMSi6FlUqIl1cvY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-16T16:15:15.570Z",
+        "lastAccessed": "2025-05-16T16:15:15.571Z"
+    },
+    {
+        "key": "sb",
+        "value": "HedFZyI2zZbruL14EMnZaCFs",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-16T16:15:15.571Z",
+        "lastAccessed": "2025-05-16T16:15:15.571Z"
+    },
+    {
+        "key": "dpr",
+        "value": "1.5",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-16T16:15:15.571Z",
+        "lastAccessed": "2025-05-16T16:15:15.571Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61576600074094",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-16T16:15:15.571Z",
+        "lastAccessed": "2025-05-16T16:15:15.571Z"
+    },
+    {
+        "key": "xs",
+        "value": "12%3ACAWeo16sy64RMQ%3A2%3A1747411870%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-16T16:15:15.571Z",
+        "lastAccessed": "2025-05-16T16:15:15.571Z"
+    },
+    {
+        "key": "fr",
+        "value": "1LcomTQVi9biVI6JT.AWce_sut4wGkowzy8YUb-LsVLm8WDm3kFrRIm9yCI2M2tB43I0w.BoJ2Np..AAA.0.0.BoJ2RS.AWfFquoyS10qZB9sSgIwZkKjpDo",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-16T16:15:15.571Z",
+        "lastAccessed": "2025-05-16T16:15:15.571Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1747412051764%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-16T16:15:15.571Z",
+        "lastAccessed": "2025-05-16T16:15:15.571Z"
+    },
+    {
+        "key": "wd",
+        "value": "1280x559",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-05-16T16:15:15.571Z",
+        "lastAccessed": "2025-05-16T16:15:15.571Z"
+    }
+]
