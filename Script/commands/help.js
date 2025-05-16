@@ -2,7 +2,7 @@ module.exports.config = {
         name: "help",
         version: "1.0.2",
         hasPermssion: 0,
-        credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+        credits: "R_GaMING SMP",
         description: "FREE SET-UP MESSENGER",
         commandCategory: "system",
         usages: "[Name module]",
